@@ -2,7 +2,7 @@
 
 A cute desktop cat that chases your mouse cursor around the screen, inspired by the classic Neko program.
 
-![Oneko Demo](demo.gif) <!-- Add a demo GIF if you have one -->
+![Oneko Demo](/theme_orange_cat/14.gif) <!-- Add a demo GIF if you have one -->
 
 ## Features
 
