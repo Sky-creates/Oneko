@@ -16,11 +16,12 @@ A cute desktop cat that chases your mouse cursor around the screen, inspired by 
 
 ## Installation
 
-### Option 1: Download DMG (Recommended)
-1. Download the latest `Oneko-Installer.dmg`
-2. Open the DMG file
-3. Drag Oneko.app to Applications folder
-4. Launch from Applications or Spotlight
+### Option 1: Download from Releases (Recommended)
+1. Go to [Releases](https://github.com/Sky-creates/Oneko/releases)
+2. Download the latest `Oneko-Installer.dmg`
+3. Open the DMG file
+4. Drag Oneko.app to Applications folder
+5. Launch from Applications or Spotlight
 
 ### Option 2: Build from Source
 ```bash
